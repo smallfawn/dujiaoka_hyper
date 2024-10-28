@@ -10,6 +10,7 @@ return [
     'order_search'        => '查询订单',
     'global_currency'     => '￥',
     'blog_name'           => '我的博客',
+    'blog_url'            => 'https://smallfawn.github.io', // 或者您想要跳转的其他URL
     # home.blade.php
 
     'home_title'              => '欢迎来到云小店~',

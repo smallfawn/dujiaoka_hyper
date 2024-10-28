@@ -257,8 +257,8 @@
                             </a>
                             <ul class="list-unstyled topbar-right-menu float-right mb-0">
                                 <li class="notification-list">
-                                    <a class="nav-link right-bar-toggle" href="https://smallfawn.github.io">
-                                        <i class="noti-icon mdi mdi-magnify search-icon"></i>
+                                    <a class="nav-link right-bar-toggle" href="{{ __('hyper.blog_url') }}">
+                                        <i class="noti-icon mdi mdi-home-outline home-icon"></i>
                                         {{ __('hyper.blog_name') }}
                                     </a>
                                 </li>
