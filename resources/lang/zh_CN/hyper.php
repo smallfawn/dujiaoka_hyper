@@ -24,7 +24,7 @@ return [
     'home_automatic_delivery' => '自动发货',
     'home_charge'             => '人工发货',
     'home_buy'                => '购买',
-    'home_sell_out'           => '售罄',
+    'home_sell_out'           => '暂时无货',
     'home_sell_out_tip'       => '商品缺货',
     'home_whole'              => '全部',
     'home_tip'                => '提示',
