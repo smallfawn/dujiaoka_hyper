@@ -4,15 +4,15 @@ return [
 
     # Hyper Theme
 
-    'notice_announcement' => '公告',
+    'notice_announcement' => '- 公 示 栏 -',
     'error_back_btn'      => '返回',
     'error_error'         => '错误',
     'order_search'        => '查询订单',
     'global_currency'     => '￥',
-
+    'blog_name'           => '我的博客',
     # home.blade.php
 
-    'home_title'              => '主页',
+    'home_title'              => '欢迎来到云小店~',
     'home_search_box'         => '输入关键词搜索...',
     'home_product_name'       => '商品名称',
     'home_product_class'      => '类型',
