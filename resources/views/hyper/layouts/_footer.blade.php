@@ -37,6 +37,7 @@
     });
 </script>
 <script>console.group("Faka");console.log("Name: 独角数卡");console.log("Github: https://github.com/assimon/dujiaoka");console.groupEnd();</script>
-<script>console.group("Theme");console.log("Name: Hyper Theme");console.log("Author: Bimoes");console.groupEnd();</script>
+<script>console.group("Theme");console.log("Name: Hyper Theme");console.log("Author: Bimoes");
+console.log("Modify: https://github.com/smallfawn/dujiaoka_hyper");console.groupEnd();</script>
 </body>
 </html>
