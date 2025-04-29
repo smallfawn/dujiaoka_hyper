@@ -9,8 +9,8 @@ return [
     'error_error'         => '错误',
     'order_search'        => '查询订单',
     'global_currency'     => '￥',
-    'blog_name'           => '我的博客',
-    'blog_url'            => 'https://smallfawn.github.io', // 或者您想要跳转的其他URL
+    'blog_name'           => '售后Q群',
+    'blog_url'            => 'https://qm.qq.com/cgi-bin/qm/qr?k=8VnPsbPuH9T3VzKuTUfApqkFCEZsP8aT&jump_from=webapi&authKey=BIFH+zGNLBM5crB5oNGrOJTByjGo7g4RLrGqcPZoFOdjMwxH3zJ0pDnfipa7yiV6', // 或者您想要跳转的其他URL
     # home.blade.php
 
     'home_title'              => '欢迎来到云小店~',
